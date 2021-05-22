@@ -1,0 +1,7 @@
+{
+	"hosting": {
+		"public": "build",
+		"site": "hjggolf-3e695",
+		"ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+	}
+}

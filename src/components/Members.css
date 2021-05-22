@@ -1,0 +1,9 @@
+.member {
+  width : 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px 0px;
+  border-radius: 5px;
+}
+

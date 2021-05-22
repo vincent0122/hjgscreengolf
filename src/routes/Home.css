@@ -1,0 +1,28 @@
+.Member_list {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	padding: 50px 0px;
+}
+
+.button {
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: lightyellow;
+	border-radius: 10px;
+	border: solid 1px;
+	padding: 3px 5px;
+	font-weight: 500;
+	font-size: 18px;
+	color: black;
+}
+
+.Member_list a {
+	text-decoration: none;
+}
+
+.button:hover {
+	background-color: lightblue;
+}

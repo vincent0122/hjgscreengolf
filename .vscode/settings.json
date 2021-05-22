@@ -1,0 +1,7 @@
+{
+	"prettier.printWidth": 120,
+	"javascript.format.enable": false,
+	"prettier.eslintIntegration": true,
+    "editor.formatOnSave": true,
+    "editor.wordWrapColumn": 120
+}
